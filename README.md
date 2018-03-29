@@ -3,6 +3,7 @@
 A command line implementation of the simple Polish kids boardgame.
 Playable, but mostly serves as a proof of concept.
 Turns out that there's not actually much to do once all the dice rolls are done by a machine.
+
 *2017 Leszek Kicior*
 
 ## Requirements
@@ -34,6 +35,7 @@ The winner is the first player to own at least 1 of every animal (except dogs) a
 ## License
 
 The boardgame version of Superfarmer belongs to *GRANNA sp. z o.o.*, and I claim no ownership.
+
 The code itself is a tiny student project, and I can't fathom how it could be of any use to anyone, but is nonetheless freely available under an MIT license.
 
 ## Links
