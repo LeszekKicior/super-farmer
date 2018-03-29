@@ -1,4 +1,4 @@
-#Terminal Superfarmer
+# Terminal Superfarmer
 
 A command line implementation of the simple Polish kids boardgame.
 Playable, but mostly serves as a proof of concept.
