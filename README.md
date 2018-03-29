@@ -31,11 +31,11 @@ Rolling a fox will cause the player to lose all of his rabbits, while rolling a 
 
 The winner is the first player to own at least 1 of every animal (except dogs) after rolling the dice. The game ends when a player manages to do this.
 
-##License
+## License
 
 The boardgame version of Superfarmer belongs to *GRANNA sp. z o.o.*, and I claim no ownership.
 The code itself is a tiny student project, and I can't fathom how it could be of any use to anyone, but is nonetheless freely available under an MIT license.
 
-##Links
+## Links
 * [Superfarmer at BoardGameGeek](https://boardgamegeek.com/boardgame/17557/super-farmer)
 * [English rules PDF](https://boardgamegeek.com/filepage/16176/super-farmer-enpdf)
