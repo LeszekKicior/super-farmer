@@ -22,11 +22,11 @@ After rolling the dice, the players will receive a number of animals equal to ha
 Once a player has 6 or more rabbits (or 1 of any other animal), they can exchange animals before rolling, based on the following values:
 
 * Sheep: 6 rabbits
-* Pig: 12 rabbits
-* Cow: 36 rabbits
-* Horse: 72 rabbits
-* Small dog: 6 rabbits
-* Large dog: 36 rabbits
+* Pig: 12 rabbits (2 sheep)
+* Cow: 36 rabbits (3 pigs)
+* Horse: 72 rabbits (2 cows)
+* Small dog: 6 rabbits (1 sheep)
+* Large dog: 36 rabbits (1 cow)
 
 Rolling a fox will cause the player to lose all of his rabbits, while rolling a wolf will cause him to lose all animals except horses. This can be protected against by purchasing small or large dogs, which protect against a single fox or wolf, respectively.
 
