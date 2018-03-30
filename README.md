@@ -10,7 +10,7 @@ Turns out that there's not actually much to do once all the dice rolls are done 
 None. Currently only works on **Python 2**.
 
 ## Playing the game
-To try playing, simply run `python superfarmer-render.py` in terminal.
+To try playing, simply run `python2 superfarmer-render.py` in terminal.
 
 After selecting the number of players and inputting their names (if left blank, they default to "Player 1" and so on) the players will take turns rolling the two dice.
 The dice feature following animals:
